@@ -1,0 +1,1 @@
+token = "OTk4NjQxMDU4MDM0NDgzMjIw.Gi02_y.pCzZaRyYFEMeeduT41BwvG4IAhtVgiKqcDMNrM"  # https://discord.com/developers/applications (can be found in the "Bot" tab) - Scope: "Bot" + "applications.components"
